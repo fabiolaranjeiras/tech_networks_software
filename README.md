@@ -1,53 +1,73 @@
-Tech, Networks & Software
+# 💻 Tech, Networks & Software
 
-A centralized repository for technical documentation, notes, resources, configurations, troubleshooting, and projects related to information technology, computer networks, internet technologies, hardware, software development, and software engineering.
+A centralized repository for technical documentation, notes, resources, configurations, troubleshooting and projects across IT, networking, hardware, software development and software engineering.
 
-Scope
-IT & Infrastructure
+> 🎯 A single place to organize technical knowledge, practical solutions, reusable resources and engineering documentation.
 
-Systems administration, operating systems, servers, and infrastructure.
+## 🧭 Scope
 
-Networking & Internet
+| Area | Coverage |
+| :--- | :--- |
+| 🖥️ IT & Infrastructure | Systems administration, operating systems, servers and infrastructure. |
+| 🌐 Networking & Internet | Network protocols, TCP/IP, DNS, routing, connectivity and internet technologies. |
+| 🔧 Hardware & Computing | Computer components, diagnostics, performance and hardware documentation. |
+| 💻 Software & Development | Programming, development tools, libraries, frameworks and applications. |
+| 🏗️ Software Engineering | Architecture, design patterns, testing, debugging and development practices. |
+| 🛡️ Security & Troubleshooting | Technical diagnostics, system security, problem solving and maintenance. |
 
-Network protocols, TCP/IP, DNS, routing, connectivity, and internet technologies.
+## 📂 Repository Structure
 
-Hardware & Computing
+```text
+tech_networks_software/
+│
+├── 📁 it-infrastructure/
+├── 📁 networking/
+├── 📁 hardware/
+├── 📁 software-development/
+├── 📁 software-engineering/
+├── 📁 security/
+├── 📁 troubleshooting/
+├── 📁 documentation/
+│
+└── 📄 README.md
+```
 
-Computer components, diagnostics, performance, and hardware documentation.
+### Folder Guide
 
-Software & Development
+| Folder | Contents |
+| :--- | :--- |
+| `it-infrastructure/` | Operating systems, server administration and infrastructure configurations. |
+| `networking/` | Network protocols, connectivity, routing, DNS and internet technologies. |
+| `hardware/` | Computer components, specifications, diagnostics and performance notes. |
+| `software-development/` | Programming resources, development tools, scripts and applications. |
+| `software-engineering/` | Architecture, design patterns, testing and engineering practices. |
+| `security/` | Security configurations, system protection and security reference materials. |
+| `troubleshooting/` | Technical issues, diagnostic procedures and documented solutions. |
+| `documentation/` | General technical documentation, guides and reference materials. |
 
-Programming, development tools, libraries, frameworks, and applications.
+## 🎯 Purpose
 
-Software Engineering
+Organize and maintain technical knowledge in one place, with a focus on:
 
-Architecture, design patterns, testing, debugging, and software development practices.
+* Practical solutions to technical problems.
+* Reusable resources and configurations.
+* Clear technical and engineering documentation.
+* Continuous learning through experiments and projects.
 
-Security & Troubleshooting
+## 🧰 Usage
 
-Technical diagnostics, system security, problem-solving, and maintenance.
+This repository serves as a personal technical knowledge base and a collection of:
 
-Repository Structure
-it-infrastructure/ — Systems administration and infrastructure.
-networking/ — Networks, protocols, connectivity, and internet technologies.
-hardware/ — Computer components, diagnostics, and hardware documentation.
-software-development/ — Programming, tools, libraries, and applications.
-software-engineering/ — Architecture, design, testing, and development practices.
-security/ — Security concepts, configurations, and technical resources.
-troubleshooting/ — Diagnostics, technical issues, and solutions.
-documentation/ — Technical notes, guides, references, and documentation.
-Purpose
+* 📚 Reference materials and study notes.
+* 🧪 Experiments and technical explorations.
+* ⚙️ System and application configurations.
+* 📜 Scripts and reusable resources.
+* 🚀 Projects and implementation examples.
 
-To organize and maintain technical knowledge, practical solutions, reusable resources, configurations, and engineering documentation in one place.
+## 🟢 Status
 
-Usage
+Actively maintained as new documentation, technical resources and projects are added.
 
-This repository serves as a technical knowledge base and a collection of reference materials, experiments, configurations, scripts, and projects.
+## 🏷️ Topics
 
-Status
-
-Actively maintained as new documentation, technical resources, and projects are added.
-
-Topics
-
-IT, Networking, Internet, Hardware, Software, Programming, Software Engineering, Infrastructure, Security, and Troubleshooting.
+`IT` · `Networking` · `Internet` · `Hardware` · `Software` · `Programming` · `Software Engineering` · `Infrastructure` · `Security` · `Troubleshooting`
